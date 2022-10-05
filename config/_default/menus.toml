@@ -3,37 +3,87 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-#[[main]]
-#  name = "Home"
-#  url = "/"
-#  weight = 10
+[[main]]
+  #name = "Home"
+  url = "/"
+  weight = 10
+  pre = "<i class='fa fa-home'></i>"
 
 [[main]]
-  name = "News"
-  url = "post"
+  name = "Admission"
+  url = "admission"
   weight = 20
 
 [[main]]
+  name = "Research"
+  weight = 40
+  identifier = "research"
+[[main]]
+  name = "Research Fields" # apresentar os destaques
+  url = "fields"
+  weight = 41
+  parent = "research"
+[[main]]
   name = "Projects"
   url = "project"
-  weight = 25
-
-[[main]]
-  name = "People"
-  url = "people"
-  weight = 30
-
-# [[main]]
-#   name = "Events"
-#   url = "event"
-#   weight = 40
-
+  weight = 42
+  parent = "research"
 [[main]]
   name = "Publications"
   url = "publication"
-  weight = 50
+  weight = 43
+  parent = "research"
+[[main]]
+  name = "Thesis & Dissertations" # defendidas e talvez a divulgação de próximas defesas
+  url = "thesis"
+  weight = 44
+  parent = "research"
+
+[[main]]
+  name = "People"
+  weight = 60
+  identifier = "people" #TODO: mover texto para uma página
+[[main]]
+  name = "Faculty"
+  url = "faculty"
+  weight = 61
+  parent = "people"
+[[main]]
+  name = "Alumni"
+  url = "alumni"
+  weight = 62
+  parent = "people"
+
+[[main]]
+  name = "Program"
+  weight = 80
+  identifier = "program" #TODO: mover texto para uma página
+[[main]]
+  name = "About"
+  url = "about"
+  weight = 81
+  parent = "program"
+[[main]]
+  name = "Coordination"
+  url = "coordination"
+  weight = 82
+  parent = "program"
+[[main]]
+  name = "Courses"
+  weight = 83
+  parent = "program"
+[[main]]
+  name = "Rules"
+  url = "rules"
+  weight = 84
+  parent = "program"
+[[main]]
+  name = "News"
+  url = "post"
+  weight = 85
+  parent = "program"
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 60
+  weight = 100
