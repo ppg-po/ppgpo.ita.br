@@ -11,12 +11,6 @@ design:
   columns: '1'
 ---
 
-## Program Internal Rules
-
-- Current [Program Rules (2018)](documents/Regimento-PPG-PO-2018.pdf)
-
-- Previous [Program Rules](documents/Regimento-PPG-PO-2016.pdf) from 2016
-
 ## Actas of the Program Board
 
 For the actas of the previous board meetings, please check this [Public Shared Folder](https://drive.google.com/drive/folders/1ZzspyYgEF4mrFWiwAfRhIsQrdwJCGZ6X)

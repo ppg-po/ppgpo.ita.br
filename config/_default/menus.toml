@@ -83,7 +83,19 @@
   weight = 85
   parent = "program"
 
+  [[main]]
+  name = "Students"
+  url = "students"
+  weight = 100
+
+
+  [[main]]
+  name = "Companies"
+  url = "companies"
+  weight = 120
+
+
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 100
+  weight = 140

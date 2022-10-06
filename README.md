@@ -14,6 +14,8 @@ O site está organizado seguindo o seguinte racional:
 - *Research* - deve conter todas as informações relativas à pesquisa: linhas de pesquisa, projetos, publicações, teses defendidas e a serem defendidas, calendário de palestras e apresentações antigas
 - *People* - deve apresentar as pessoas do programa, incluindo os alunos formados
 - *Program* - deve apresentar as instituições, o programa, suas normas e informações relativas à administração, como notícias administrativas (notícias).
+- Students - pagina voltada para os atuais alunos do curso, com informações de data de matricula, rematricula, links, fomrularios para acesso de salas, informações sobre qualificações, defesas, congressos, etc. É o portal de informações do aluno.
+- Companies - onde seriam divulgadas parcerias, acesso a links de anuncio de vagas da empresa (para os alumni), formulario para desafios do data challenge, seria onde as empresas teriam informações de quais tipos de interação poderia ter com o curso 
 
 Caso existam muitas notícias administrativas, seria ideal acrescentar mais um campo geral *news* e subdividir as informações administrativas, das informações de pesquisa e para o público geral com tags.
 
