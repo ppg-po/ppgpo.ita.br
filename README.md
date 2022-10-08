@@ -14,15 +14,14 @@ O site está organizado seguindo o seguinte racional:
 - *Research* - deve conter todas as informações relativas à pesquisa: linhas de pesquisa, projetos, publicações, teses defendidas e a serem defendidas, calendário de palestras e apresentações antigas
 - *People* - deve apresentar as pessoas do programa, incluindo os alunos formados
 - *Program* - deve apresentar as instituições, o programa, suas normas e informações relativas à administração, como notícias administrativas (notícias).
-- Students - pagina voltada para os atuais alunos do curso, com informações de data de matricula, rematricula, links, fomrularios para acesso de salas, informações sobre qualificações, defesas, congressos, etc. É o portal de informações do aluno.
-- Companies - onde seriam divulgadas parcerias, acesso a links de anuncio de vagas da empresa (para os alumni), formulario para desafios do data challenge, seria onde as empresas teriam informações de quais tipos de interação poderia ter com o curso 
+- *Students* - pagina voltada para os atuais alunos do curso, com informações de data de matricula, rematricula, links, fomrularios para acesso de salas, informações sobre qualificações, defesas, congressos, etc. É o portal de informações do aluno.
+- *Companies* - onde seriam divulgadas parcerias, acesso a links de anuncio de vagas da empresa (para os alumni), formulario para desafios do data challenge, seria onde as empresas teriam informações de quais tipos de interação poderia ter com o curso 
 
 Caso existam muitas notícias administrativas, seria ideal acrescentar mais um campo geral *news* e subdividir as informações administrativas, das informações de pesquisa e para o público geral com tags.
 
 ## Instalação do ambiente
 
 É necessário instalar o Hugo versão Extended. A versão do Hugo, normal ou extended, depende de cada distribuição linux. No Ubuntu, os pacotes correspondem a versão normal.
-
 ### Ubuntu
 
 Baixe o binário da última versão do hugo, que tenha o nome extended, no [site de releases](https://github.com/gohugoio/hugo/releases), e.g.: [https://github.com/gohugoio/hugo/releases/download/v0.103.1/hugo_extended_0.103.1_linux-amd64.deb](https://github.com/gohugoio/hugo/releases/download/v0.103.1/hugo_extended_0.103.1_linux-amd64.deb)
@@ -30,6 +29,22 @@ Baixe o binário da última versão do hugo, que tenha o nome extended, no [site
 Instale o pacote python normalmente com o apt: `sudo apt install ./hugo_extended_0.103.1_linux-amd64.deb `
 
 **Importante**: você irá esquecer disto e irá aparecer vários erros. 😅 Você deve manter a versão do Hugo atualizada. Para isto, repita o processo anterior, porém com a versão mais nova.
+
+
+### Windows 
+
+Se você usa o Windows é recomendado instalar o Linux no computador. Siga os passos abaixo:
+
+•	No Microsoft Store – baixar o Unbutu
+
+•	Baixar e instalar o Visual Studio Code
+
+•	Baixar e Instalar o WSL 
+
+•	Baixar e Instalar o HUGO versão Extended
+
+Para acessar o passo a passo para instação dos programas acima acesse o link: [Instalacao.md] 
+
 
 ## Github
 
