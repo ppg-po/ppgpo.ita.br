@@ -11,19 +11,20 @@ design:
   columns: '1'
 ---
 
-# 1. important dates
+Ideia é colocar aqui todas as infromações pertinentes para os alunos que já entraram no curso. 
+Datas, modelos de qualificação/tese, formularios, infomações de bolsas e editais abertos, Sugestão de projetos e etc.
+Seria o principal portal para acessar o que precisarem em relação ao curso. Pode ser divido em sub-tópicos para falicitar a navegação.
+
+
+# 1. Important dates
 
 Re-enrollment period
 
-ITA
+### ITA
 
-UNIFESP
+### UNIFESP
 
 Maximum date for closing discipline
-
-a.	Datas importantes
-
-b.	Links para matrícula/rematrícula
 
 c.	Informações de editais de bolsas
 

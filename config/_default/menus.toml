@@ -90,8 +90,8 @@
 
 
   [[main]]
-  name = "Companies"
-  url = "companies"
+  name = "Partnerships"
+  url = "partnerships"
   weight = 120
 
 

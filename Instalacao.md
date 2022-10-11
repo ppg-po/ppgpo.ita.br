@@ -10,10 +10,10 @@ Para autorizar o Windows instalar o Ubuntu siga esses passos antes de tentar ins
 
 Na barra de pesquisa do computador pesquisar por: ativar ou desativar recursos do Windows 
     
-        a.	Selecionar a caixa de Subsistema do Windows para Linux
-        b.	Reinicia o computador
-        c.	Instalar o UBUNTU
-        d.	Colocar um nome de usuários e senha
+        1.	Selecionar a caixa de Subsistema do Windows para Linux
+        2.	Reinicia o computador
+        3.	Instalar o UBUNTU
+        4.	Colocar um nome de usuários e senha
 
 Caso prefira basta assistir o video abaixo com as explicações de como fazer a instalação.
 
