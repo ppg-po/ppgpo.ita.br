@@ -22,4 +22,3 @@ design:
   view: 3
   columns: "1"
 ---
-jdhasdk
